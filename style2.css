@@ -1,0 +1,40 @@
+body{
+    margin: auto;
+}
+.container1{
+     border: 5px solid rgb(2, 160, 160);
+    border-radius: 5px;
+    overflow: hidden;
+}
+.h1{
+    font-size: larger;
+    font-weight: bold;
+    width: 100%;
+    text-align: center;
+    color: rgb(6, 124, 124);
+    border-radius: 5px;
+    height: auto;
+    background-color: rgb(209, 255, 255);
+}
+.image{
+    width: 50%;
+    border: 2px solid  rgb(2, 160, 160);
+    border-radius: 5px;
+    padding: 2px;
+    float: left;
+}
+img{
+    object-fit: cover;
+    width: 100%;
+    height: auto;
+}
+.discript{
+    color: rgb(31, 1, 31);
+    background-color: rgb(146, 231, 231);
+    width: 45%;
+    height: auto;
+    border: 2px solid  rgb(2, 160, 160);
+    border-radius: 5px;
+    padding: 3px;
+    float: right;
+}
